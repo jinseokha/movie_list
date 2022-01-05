@@ -1,7 +1,5 @@
 package com.seokdev.movie_list.api.service
 
-import com.seokdev.movie_list.models.network.DailyBoxResponse
-import com.seokdev.movie_list.models.network.MovieListResponse
 import com.skydoves.sandwich.ApiResponse
 import retrofit2.http.GET
 import retrofit2.http.Query
